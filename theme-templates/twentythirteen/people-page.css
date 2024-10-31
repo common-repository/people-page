@@ -1,0 +1,42 @@
+/* PEOPLE PAGE TEMPLATE */
+
+div.person { padding:0 0 25px 0; margin-bottom:33px; overflow:auto; border-bottom:1px solid #ccc; }
+
+#people-page .heading { font-size:140%; margin-bottom:30px; }
+
+.person .photo { float:left; margin:0 20px 5px 0;}
+
+.person .name { margin:0; clear:none; font-size:120%; }
+
+.person .title { font-style:italic; }
+
+.person .postsAndWebsite { font-size:95%; }
+
+.person .bio { font-size:95%; margin:10px 0 0 0; }
+
+
+/* AUTHOR/PROFILE PAGE */
+
+.pp-author { margin-top:10px; }
+
+.pp-author .photo { float:left; margin:0 20px 5px 0; }
+
+.pp-author .name { margin:0; font-size:220%; }
+
+.pp-author .title { margin:0 0 4px 0; font-style:italic; font-size:130%; font-weight:normal; }
+
+.pp-author .bio { margin:25px 0 0 0; }
+
+.pp-author #posts .post img { float:left; width:75px; margin:0 10px 5px 0; }
+
+.pp-author .post h3 { display:inline-block; margin:0; }
+
+.pp-author .post .excerpt { margin-top:10px; }
+
+.pp-author .timeAndComments, .pp-author .categoriesAndTags { font-size:90%; }
+
+/* hide */
+	
+.author .archive-header, .author article.post { display:none; }
+	
+.author .hentry { padding:0; }

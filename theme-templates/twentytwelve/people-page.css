@@ -1,0 +1,66 @@
+/* PEOPLE PAGE TEMPLATE */
+
+div.person { padding:0 0 3px 0; margin-bottom:17px; overflow:auto; }
+
+#people-page .heading { font-size:150%; margin-bottom:20px; font-weight:normal; }
+
+.person .photo { float:left; margin:0 20px 4px 0;}
+
+.person .name { font-size:110% !important; margin:2px 0 0 0; clear:none; }
+
+.person .title { font-size:95%; display:block; font-style:italic; }
+
+.person .postsAndWebsite { font-size:90%; }
+
+.person .bio { margin:15px 0 0 0; }
+
+
+/* AUTHOR/PROFILE PAGE */
+
+.pp-author .name { margin-bottom:0; }
+
+.pp-author .title { margin:0; font-style:italic; font-weight:normal; }
+
+.pp-author .photo { float:left; margin:0 25px 10px 0; }
+
+.pp-author .post .attachment-thumbnail { float:left; width:75px; height:75px; margin:0 10px 5px 0; }
+
+.pp-author .post h3 { margin-bottom:0; }
+
+.pp-author .timeAndComments, .pp-author .categoriesAndTags { font-size:90%; }
+
+
+/* PEOPLE PAGE - TWENTY TWELVE */
+
+.site-content article  { margin-bottom:40px !important; }
+
+.person .name { margin-bottom:3px; font-size:120%; }
+
+ person .title { margin:4px 0; font-size:105%; }
+
+.person .postsAndWebsite  { margin:4px 0; font-size:90%; }
+
+.person .bio  { line-height:1.3; }
+
+
+/* AUTHOR PAGE/PROFILE - TWENTY TWELVE */
+
+.author .archive-header{ display:none; }
+
+.pp-author .name { margin-bottom:8px; font-size:170%; }
+
+.pp-author .title { margin-bottom:3px; font-size:120%; }
+
+.pp-author .website  { font-size:95%; margin:7px 0; }
+
+.pp-author .bio  { margin-top:20px; line-height:1.3; }
+
+.pp-author #posts-header { font-size:150%; margin:20px 0; }
+
+.pp-author #posts .post { margin-bottom:20px; line-height:1.25; }
+
+.pp-author #posts .post h3 { clear:none; font-size:110%; }
+
+.pp-author .timeAndComments, .pp-author .categoriesAndTags { font-style:italic; }
+
+.pp-author .post .excerpt { font-size:95%; margin-top:8px; }

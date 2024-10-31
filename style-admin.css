@@ -1,0 +1,33 @@
+#pp-meta-box .inside { overflow:auto; }
+
+#pp-meta-box ul { float:left; min-width:29%; min-height:27px; padding:10px; border:1px solid #999; display:inline-block; border-color: #DFDFDF; border-radius: 3px; box-shadow: 0 1px 0 #FFFFFF inset; }
+
+#pp-meta-box li { padding:1px 6px; background-color:#fff; border:1px solid #ccc; cursor: hand; cursor: pointer; }
+
+#pp-meta-box #peopleOff { margin-left:12px; max-width:59%; padding:5px; }
+
+#peopleOff li { display:inline-block; margin:5px; }
+
+#pp-meta-box .header{ margin-left:2px; border:0; }
+
+ul#peopleOn { background:url('bg-drag-users.png') no-repeat center top; }
+
+#peopleOn .header{ width:90%; font-weight:bold; }
+
+#peopleOff .header{ width:70px; font-weight:bold; }
+
+#saved{ margin-left:5px; display:inline-block; font-weight:bold; display:none; }
+
+#ppActive, #ppInactive { float:left; text-align:center; font-weight:bold; }
+
+#ppActive{ min-width:32%; }
+
+#ppInactive{ width:54%; }
+
+#ppMdash{ float:left; }
+
+/* user edit & profile pages */
+
+#pp-photo-preview{ position:absolute; display:inline-block; }
+
+#pp-photo-preview img{ max-width:90px; position:relative; left:20px; bottom:30px; }
